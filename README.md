@@ -1,4 +1,4 @@
-# Hi! I'm dragon73101, a middle school programmer.
+<h2>Hi! I'm dragon73101, a middle school programmer.</h2>
 
 <h2>Please join my server:</h2>
 
