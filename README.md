@@ -3,9 +3,8 @@
 <h2>Please join my server:</h2>
 
 <a href="https://discord.gg/hrXXUeWgrn">
-  <img src="https://dcbadge.vercel.app/api/DM-network/hrXXUeWgrn" width="400px" height="170px"/>
+  <img src="https://raw.githubusercontent.com/dragon731012/dragon731012/main/0.jpg" width="400px" height="170px"/>
 </a>
-![](https://dcbadge.vercel.app/api/DM-network/hrXXUeWgrn)(https://discord.gg/hrXXUeWgrn)
 
 <h2>GitHub Stats:</h2>
 
