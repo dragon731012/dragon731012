@@ -1,6 +1,5 @@
 <h2>Hi! I'm dragon73101, a middle school programmer.</h2>
 
-<h2>Please join my server:</h2>
 
 <a href="https://discord.gg/hrXXUeWgrn">
   <img src="https://dcbadge.vercel.app/api/server/hrXXUeWgrn"/>
