@@ -1,4 +1,4 @@
-<h2>Hi! I'm dragon73101, a middle school programmer.</h2>
+<h2>Hi! I'm dragon73101, a 13-year-old middle school programmer.</h2>
 
 <h4>my server:</h4>
 
