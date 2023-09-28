@@ -1,5 +1,7 @@
 <h2>Hi! I'm dragon73101, a 13-year-old middle school programmer.</h2>
 
+<h5>current languages known: phython, java, javascript, and lua.</h5>
+
 <h4>my server:</h4>
 
 <a href="https://discord.gg/hrXXUeWgrn">
