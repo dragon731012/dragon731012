@@ -1,6 +1,6 @@
 <h2>Hi! I'm dragon73101, a 13-year-old middle school programmer.</h2>
 
-<h4>"The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him."- Revelation 12:9</h4>
+<h4>"The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him."\n-Revelation 12:9</h4>
 
 <h5>current languages known: phython, java, javascript, c++, and lua.</h5>
 
