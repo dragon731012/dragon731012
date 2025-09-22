@@ -9,3 +9,4 @@
 <h4>GitHub Stats:</h4>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dragon731012&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dragon731012&show_icons=true&theme=transparent)<br/><br/>
