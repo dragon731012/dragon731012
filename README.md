@@ -1,4 +1,4 @@
-<h2>Hi! I'm Potato, a 15-year-old high school programmer.</h2>
+<h2>Hi! I'm Potato, a 16-year-old high school programmer.</h2>
 
 <h5>
   Join my discord server! <br><a href="https://discord.gg/VyV8Gtqhux">https://discord.gg/VyV8Gtqhux</a>
